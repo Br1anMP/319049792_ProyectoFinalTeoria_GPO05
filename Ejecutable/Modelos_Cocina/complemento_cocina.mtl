@@ -1,0 +1,152 @@
+# Blender 4.5.3 LTS MTL File: 'Casa.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd cajon_puerta.png
+map_d cajon_puerta.png
+
+newmtl blanco
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd blanco.png
+map_d blanco.png
+
+newmtl blanco.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd blanco.png
+map_d blanco.png
+
+newmtl cajones_cocina
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd cajones.jpg
+map_d cajones.jpg
+
+newmtl cereal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd cereal.png
+map_d cereal.png
+
+newmtl funda_lampara
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd funda_lampara.png
+map_d funda_lampara.png
+
+newmtl guardaplato
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd guarda_platos.jpg
+map_d guarda_platos.jpg
+
+newmtl guardaplato.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd guarda_platos.jpg
+map_d guarda_platos.jpg
+
+newmtl horno_
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd horno.png
+map_d horno.png
+
+newmtl lavadero
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd lavadero.png
+map_d lavadero.png
+
+newmtl mesa_sala.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd material_mesa.png
+map_d material_mesa.png
+
+newmtl mesa_sala.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd material_mesa.png
+map_d material_mesa.png
+
+newmtl mesa_sala.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd material_mesa.png
+map_d material_mesa.png
+
+newmtl mesa_sala.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd material_mesa.png
+map_d material_mesa.png
+
+newmtl mesa_sala.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd material_mesa.png
+map_d material_mesa.png

@@ -1,0 +1,56 @@
+# Blender 4.5.3 LTS MTL File: 'planta_14440_autosave.blend'
+# www.blender.org
+
+newmtl Atlas
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Bottles_Diff.jpg
+map_Ns Bottles_Gloss.png
+map_d Bottles_Alpha.png
+
+newmtl Atlas.001
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Bottles_Diff.jpg
+map_Ks Bottles_Spec.jpg
+map_Ns Bottles_Gloss.png
+map_d Bottles_Alpha.png
+map_Bump -bm 1.000000 Bottles_Norm.jpg
+
+newmtl Atlas.002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Bottles_Diff.jpg
+map_Ks Bottles_Spec.jpg
+map_Ns Bottles_Gloss.png
+map_d Bottles_Alpha.png
+map_Bump -bm 1.000000 Bottles_Norm.jpg
+
+newmtl Atlas.009
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Bottles_Diff.jpg
+map_Ks Bottles_Spec.jpg
+map_Ns Bottles_Gloss.png
+map_d Bottles_Alpha.png
+map_Bump -bm 1.000000 Bottles_Norm.jpg
+
+newmtl Atlas.010
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Bottles_Diff.jpg
+map_Ks Bottles_Spec.jpg
+map_Ns Bottles_Gloss.png
+map_d Bottles_Alpha.png
+map_Bump -bm 1.000000 Bottles_Norm.jpg
