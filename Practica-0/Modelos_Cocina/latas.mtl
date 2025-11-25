@@ -1,0 +1,24 @@
+# Blender 4.5.3 LTS MTL File: 'planta_14440_autosave.blend'
+# www.blender.org
+
+newmtl etiqueta
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd lata_clean_ALB.tga.png
+map_Ns lata_clean_Rough.tga.png
+map_refl lata_clean_Metallic.tga.png
+map_d lata_clean_Rough.tga.png
+
+newmtl etiqueta.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd lata_clean_ALB.tga.png
+map_Ns lata_clean_Rough.tga.png
+map_refl lata_clean_Metallic.tga.png
+map_d lata_clean_Rough.tga.png

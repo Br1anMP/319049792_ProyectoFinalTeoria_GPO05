@@ -1,0 +1,66 @@
+# Blender 4.5.3 LTS MTL File: 'planta_14440_autosave.blend'
+# www.blender.org
+
+newmtl M_TreeAtlas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd TreeBranchesBake_low_M_TreeAtlas_BaseColor.png
+map_d TreeBranchesBake_low_M_TreeAtlas_BaseColor.png
+map_Bump -bm 1.000000 TreeBranchesBake_low_M_TreeAtlas_Normal.png
+
+newmtl M_TreeAtlas.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd TreeBranchesBake_low_M_TreeAtlas_BaseColor.png
+map_d TreeBranchesBake_low_M_TreeAtlas_BaseColor.png
+map_Bump -bm 1.000000 TreeBranchesBake_low_M_TreeAtlas_Normal.png
+
+newmtl Trunk
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plane_DefaultMaterial_BaseColor.png
+map_Bump -bm 1.000000 plane_DefaultMaterial_Normal.png
+
+newmtl Trunk.001
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plane_DefaultMaterial_BaseColor.png
+map_Bump -bm 1.000000 plane_DefaultMaterial_Normal.png
+
+newmtl lambert6
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 360.jpg
+
+newmtl lambert6.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 360.jpg

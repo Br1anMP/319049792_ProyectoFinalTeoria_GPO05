@@ -1,0 +1,13 @@
+# Blender 4.5.3 LTS MTL File: 'planta_14440_autosave.blend'
+# www.blender.org
+
+newmtl VRayMtl1SG
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Sofa_VRayMtl1SG_BaseColor.png
+map_Ns Sofa_VRayMtl1SG_Roughness.png
+map_refl Sofa_VRayMtl1SG_Metallic.png
+map_d Sofa_VRayMtl1SG_BaseColor.png
